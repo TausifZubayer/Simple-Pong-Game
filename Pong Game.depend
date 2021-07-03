@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1587807638 source:c:\users\user\desktop\programs\pong game\cball.cpp
+	"cBall.h"
+
+1587807594 c:\users\user\desktop\programs\pong game\cball.h
+	<iostream>
+
+1590403989 source:c:\users\user\desktop\programs\pong game\main.cpp
+	"cGameManager.h"
+
+1590263269 source:c:\users\user\desktop\programs\pong game\cpaddle.cpp
+	"cPaddle.h"
+
+1590263454 c:\users\user\desktop\programs\pong game\cpaddle.h
+	<iostream>
+
+1590401628 source:c:\users\user\desktop\programs\pong game\cgamemanager.cpp
+	"cGameManager.h"
+
+1590404012 c:\users\user\desktop\programs\pong game\cgamemanager.h
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"cBall.h"
+	"cPaddle.h"
+
+1587807638 source:g:\c++ projects\pong game\cball.cpp
+	"cBall.h"
+
+1587807594 g:\c++ projects\pong game\cball.h
+	<iostream>
+
+1590404098 source:g:\c++ projects\pong game\cgamemanager.cpp
+	"cGameManager.h"
+
+1590404012 g:\c++ projects\pong game\cgamemanager.h
+	<iostream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"cBall.h"
+	"cPaddle.h"
+
+1590263454 g:\c++ projects\pong game\cpaddle.h
+	<iostream>
+
+1590263269 source:g:\c++ projects\pong game\cpaddle.cpp
+	"cPaddle.h"
+
+1590403989 source:g:\c++ projects\pong game\main.cpp
+	"cGameManager.h"
+
